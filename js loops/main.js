@@ -74,12 +74,12 @@ console.log("einde loop");
 
 // opdr 8
 counter = 0;
-while (counter < 21) {
+while (counter < 20) {
     console.log("Loop", counter);
 
     counter++
 
-    if (counter >= 11){
+    if (counter >= 10){
         break
     }
 }
